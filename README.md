@@ -1,2 +1,5 @@
 # hello-world
-The first repository i have made.
+
+The first repository I have made.
+
+I’m Chinese.
